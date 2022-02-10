@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/grgmddn/ppe-for-uk#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
